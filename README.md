@@ -1,2 +1,2 @@
-# Exercicios-Java
+# Exercicios Java
 Exercicios de Logica no JAVA
